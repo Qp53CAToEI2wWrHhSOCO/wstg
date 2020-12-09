@@ -3,13 +3,13 @@
 ## Resumen
 
 - [Guías de prueba de OWASP](#owasp-testing-guides)
-    - Guía de pruebas de seguridad web (WSTG)
-    - Guía de pruebas de seguridad móvil (MSTG)
-    - Metodología de prueba de seguridad de firmware
+  - Guía de pruebas de seguridad web (WSTG)
+  - Guía de pruebas de seguridad móvil (MSTG)
+  - Metodología de prueba de seguridad de firmware
 - [Estándar de ejecución de pruebas de penetración](#penetration-testing-execution-standard)
 - [Guía de pruebas de penetración PCI](#pci-penetration-testing-guide)
-    - [Guía de pruebas de penetración de PCI DSS](#pci-dss-penetration-testing-guidance)
-    - [Requisitos de las pruebas de penetración de PCI DSS](#pci-dss-penetration-testing-requirements)
+  - [Guía de pruebas de penetración de PCI DSS](#pci-dss-penetration-testing-guidance)
+  - [Requisitos de las pruebas de penetración de PCI DSS](#pci-dss-penetration-testing-requirements)
 - [Framework de pruebas de penetración](https://gitlocalize.com/repo/5220/es/document/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies.md#penetration-testing-framework)
 - [Guía técnica para pruebas y evaluación de seguridad de la información](#technical-guide-to-information-security-testing-and-assessment)
 - [Manual de metodología de pruebas de seguridad de código abierto](#open-source-security-testing-methodology-manual)
